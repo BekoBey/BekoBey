@@ -11,6 +11,9 @@
     <a href="https://discord.com/users/725034582768091157" title="Discord Profile" rel="nofollow"><img src="https://github.bekobey1.repl.co/8623ae400105e194f6238540ca2eac73a4d8696939864972f09b1e55b2882c79/68747470733a2f2f6c616e796172642d70726f66696c652d726561646d652e76657263656c2e6170702f6170692f36.html" data-canonical-src="https://lanyard-profile-readme.vercel.app/api/725034582768091157" style="max-width: 100%;"></a>
 </div>
 
+(https://lanyard.cnrad.dev/api/801742570341531658
+                            )](https://discord.com/users/801742570341531658)
+
 <!---
 BekoBey/BekoBey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
