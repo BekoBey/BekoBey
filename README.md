@@ -12,6 +12,7 @@
 </div>
 
 ![Discord Profile](https://lanyard.cnrad.dev/api/725034582768091157)
+[![Discord Presence](https://lanyard.cnrad.dev/api/725034582768091157)](https://discord.com/users/725034582768091157)
 
 <!---
 BekoBey/BekoBey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
