@@ -23,4 +23,4 @@ You can click the Preview link to take a look at your changes.
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
 [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
 
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+:shipit:
