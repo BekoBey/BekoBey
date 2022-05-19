@@ -11,7 +11,7 @@
     <a href="https://discord.com/users/801742570341531658" title="Discord Profile" rel="nofollow"><img src="(https://lanyard.cnrad.dev/api/801742570341531658" data-canonical-src="https://lanyard-profile-readme.vercel.app/api/801742570341531658" style="max-width: 100%;"></a>
 </div>
 
-![Discord Profile](https://lanyard.cnrad.dev/api/725034582768091157)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/725034582768091157?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/725034582768091157)
 [![Discord Presence](https://lanyard.cnrad.dev/api/725034582768091157)](https://discord.com/users/725034582768091157)
 
 <!---
