@@ -25,4 +25,4 @@ You can click the Preview link to take a look at your changes.
 
 :shipit:
 
-![Profile](https://camo.githubusercontent.com/6ccb8ff0e4be8fe1d8c249e91ab6af9b98d9963a42534297787c33bc3c894d01)
+
