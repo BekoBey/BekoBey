@@ -11,7 +11,7 @@
     <a href="https://discord.com/users/801742570341531658" title="Discord Profile" rel="nofollow"><img src="(https://lanyard.cnrad.dev/api/801742570341531658" data-canonical-src="https://lanyard-profile-readme.vercel.app/api/801742570341531658" style="max-width: 100%;"></a>
 </div>
 
-![Discord Profile](https://lanyard.cnrad.dev/api/852991733888712744)
+![Discord Profile](https://lanyard.cnrad.dev/api/725034582768091157)
 
 <!---
 BekoBey/BekoBey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
